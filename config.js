@@ -4,7 +4,7 @@ var config = {
   // 每句话尽量不要超过15个字,不然展示效果可能不太好
   texts: [
     "Ê", //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-    "Mắm", // 同上...
+    "Gái", // 同上...
     "Giờ tao cũng không hiểu",
     "3h giờ sáng tao không đi ngủ",
     "Mà bật máy làm cái xàm quần này",
@@ -46,7 +46,7 @@ var config = {
    * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
    */
   imgs: {
-    Mắm: "./imgs/Phương.jpeg",
+    Gái: "./imgs/Phương.jpeg",
     // "今天是你的生日": "./imgs/birthday.jpg",
   },
   // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
